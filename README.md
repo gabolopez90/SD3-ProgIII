@@ -2,7 +2,7 @@
 
 Proyecto para la Sesión Didáctica 3, ejercicio N°2 de Programación III de la UNETI.
 
-Integrantes: 
+**Integrantes:** 
 -  Jonnatha Cordova
 -  Domingo Silva
 -  Gabriel López
