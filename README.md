@@ -12,8 +12,8 @@ Proyecto para la Sesión Didáctica 3, ejercicio N°2 de Programación III de la
 - Sistema de alertas dinámicas
 
 Para ejecutar el programa:
--Descargar el repositorio.
--Instalar angular
+- Descargar el repositorio.
+- Instalar angular
 
 ```
     npm install -g @angular/cli
@@ -30,5 +30,6 @@ Para ejecutar el programa:
 ```
     npm start
 ```
+
 
 -En el navegador ir a la URL http://localhost:4200/
