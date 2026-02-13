@@ -14,15 +14,21 @@ Proyecto para la Sesión Didáctica 3, ejercicio N°2 de Programación III de la
 Para ejecutar el programa:
 -Descargar el repositorio.
 -Instalar angular
-´´´
+
+```
     npm install -g @angular/cli
-´´´
+```
+
 -En la línea de comandos ejecutar
-´´´
+
+```
     npm install
-´´´
+```
+
 -Luego ejecutar
-´´´
+
+```
     npm start
-´´´
+```
+
 -En el navegador ir a la URL http://localhost:4200/
