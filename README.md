@@ -19,13 +19,13 @@ Para ejecutar el programa:
     npm install -g @angular/cli
 ```
 
--En la línea de comandos ejecutar
+- En la línea de comandos ejecutar
 
 ```
     npm install
 ```
 
--Luego ejecutar
+- Luego ejecutar
 
 ```
     npm start
@@ -33,3 +33,4 @@ Para ejecutar el programa:
 
 
 -En el navegador ir a la URL http://localhost:4200/
+
